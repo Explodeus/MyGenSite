@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: aliceblue;
+
+}
+.navclr{
+    background-color: #0f0f0a;
+    color: beige;
+}
+.icons{
+    height: 25px;
+    width: 25px;
+}
+.navalign{
+    text-align: right;
+}
+.n1timemrgn{
+    margin-right: 5vh;
+}
+.n2timemrgn{
+    margin-right: 5vh;
+}
+.slogmarg{
+    margin-top: 20vh;
+    margin-left: 5vh;
+}
+.onlyleft{
+    margin-left: 5vh;
+}
