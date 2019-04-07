@@ -1,7 +1,8 @@
 body{
     background-color: black;
     color: aliceblue;
-
+     margin: 0;
+    height: 100px;
 }
 .navclr{
     background-color: #0f0f0a;
@@ -26,4 +27,16 @@ body{
 }
 .onlyleft{
     margin-left: 5vh;
+}
+.aboutcont{
+    background-color: #494c51;
+    color: white;
+    text-align: center;
+    height: 2000px;
+}
+.card{
+    color: black;
+}
+.cardmrgn{
+    margin-top: 50vh;
 }
